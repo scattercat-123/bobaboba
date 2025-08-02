@@ -1,0 +1,12 @@
+img{
+    height: 250px;
+    border-width: 5px;
+    border-color: blue;
+    border-style: dashed;
+}
+body{
+    text-align: center;
+    background-color: antiquewhite;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+}
